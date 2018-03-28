@@ -1,0 +1,66 @@
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.csprojResolveAssemblyReference.cache
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.dll.config
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.pdb
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\EntityFramework.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\EntityFramework.SqlServer.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Helpers.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Mvc.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Razor.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Deployment.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Razor.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\EntityFramework.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\EntityFramework.SqlServer.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Razor.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Deployment.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Razor.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Helpers.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\bin\System.Web.Mvc.xml
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.dll
+c:\users\sg0302341\documents\visual studio 2013\Projects\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.pdb
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.dll.config
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.pdb
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.SqlServer.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Helpers.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Mvc.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Razor.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Razor.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.SqlServer.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Razor.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Razor.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Helpers.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Mvc.xml
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.csprojResolveAssemblyReference.cache
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.dll
+C:\Users\yasha\Documents\8th Sem\InstructionalResource2-20180320T165538Z-001\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.pdb
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.dll.config
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\InstructionalResource2.pdb
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.SqlServer.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Helpers.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Mvc.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Razor.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\EntityFramework.SqlServer.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Razor.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Helpers.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\bin\System.Web.Mvc.xml
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.csprojResolveAssemblyReference.cache
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.dll
+C:\Users\Autolab\Downloads\InstructionalResource2-20180323T125132Z-001\InstructionalResource2\InstructionalResource2\obj\Debug\InstructionalResource2.pdb
